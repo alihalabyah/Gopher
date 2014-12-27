@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+node_modules
+public
+.tmp
+.sass-cache
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
+=======
 # Logs
 logs
 *.log
@@ -26,3 +36,4 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+>>>>>>> 42c820591c13a74df7a6a158b6f9d02039b6abba
